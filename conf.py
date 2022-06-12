@@ -49,9 +49,9 @@ source_encoding = 'utf-8-sig'
 master_doc = "index"
 
 # General information about the project.
-project = "P02W"
-copyright = "2022 Alison Macdonald"
-author = "Alison Macdonald"
+project = "P02E"
+copyright = "2022 Andreas Thurnherr"
+author = "Andreas Thurnherr"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -227,9 +227,9 @@ latex_additional_files = ["sensor-calib.pdf"]
 latex_documents = [
     (
         master_doc,
-        "P02W.tex",
-        "Cruise Report of the 2022 P02W US GO-SHIP Reoccupation",
-        "Alison Macdonald",
+        "P02E.tex",
+        "Cruise Report of the 2022 P02E US GO-SHIP Reoccupation",
+        "Andreas Thurnherr",
         "manual",
     ),
 ]
@@ -261,18 +261,18 @@ latex_appendices = [
 # -- Options for document variables ---------------------------------------
 
 subs = {
-    "CRS": "P02W-2022",
-    "CHIEFSCI": "Alison Macdonald",
-    "COCHIEFSCI": "Shuwen Tan",
+    "CRS": "P02E-2022",
+    "CHIEFSCI": "Andreas Thurnherr",
+    "COCHIEFSCI": "Sebastien Bigorre",
     "FIRST_STA": "1",
     "LAST_STA": "117",
     "NSTA": "117",  #   Number of stations
     "TCST": "148",   #   Total number of casts
     "SHIP": "R/V Roger Revelle",
-    "STARTD": "April 30, 2022",
-    "ENDD": "June 10, 2022",
-    "STARTPORT": "Sånta Rita-Sumai, Guam, USA",
-    "ENDPORT": "Honolulu, Hawaii, USA",
+    "STARTD": "June 13, 2022",
+    "ENDD": "July 16, 2022",
+    "STARTPORT": "Honolulu, Hawaii, USA",
+    "ENDPORT": "San Diego, California, USA",
     "PACK": "CTDO/rosette/LADCP/UVP/chipod",
     "DO18": ":math:`\delta`O\ :sup:`18`",
     "DN15": ":math:`\delta`N\ :sup:`15`",
@@ -327,7 +327,7 @@ rst_epilog = "\n".join(
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, "P02W", "P02W Documentation", [author], 1)]
+man_pages = [(master_doc, "P02E", "P02E Documentation", [author], 1)]
 
 # If true, show URL addresses after external links.
 # man_show_urls = False
@@ -341,10 +341,10 @@ man_pages = [(master_doc, "P02W", "P02W Documentation", [author], 1)]
 texinfo_documents = [
     (
         master_doc,
-        "P02W",
-        "P02W Documentation",
+        "P02E",
+        "P02E Documentation",
         author,
-        "P02W",
+        "P02E",
         "One line description of project.",
         "Miscellaneous",
     ),
