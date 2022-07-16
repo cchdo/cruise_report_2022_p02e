@@ -2,8 +2,8 @@ Oxygen Analysis
 ===============
 
 PIs
+  * Todd Martz (SIO)
   * Susan Becker (SIO)
-  * James Swift (SIO)
 Technicians
   * Elisa Aitoro (SIO)
   * Robert “Ben” Freiberger (SIO)
