@@ -264,10 +264,10 @@ subs = {
     "CRS": "P02E-2022",
     "CHIEFSCI": "Andreas Thurnherr",
     "COCHIEFSCI": "Sebastien Bigorre",
-    "FIRST_STA": "1",
-    "LAST_STA": "117",
-    "NSTA": "117",  #   Number of stations
-    "TCST": "148",   #   Total number of casts
+    "FIRST_STA": "118",
+    "LAST_STA": "205",
+    "NSTA": "88",  #   Number of stations
+    "TCST": "128",   #   Total number of casts
     "SHIP": "R/V Roger Revelle",
     "STARTD": "June 13, 2022",
     "ENDD": "July 16, 2022",

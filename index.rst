@@ -12,14 +12,14 @@ Cruise Report for the 2022 Reoccupation of P02E
    :caption: Table of Contents
 
    rosette
+   bottle_salt
+   bottle_oxygen
+   bottle_alk
 ..   intro
    cruise_narrative
    po_science
    ctd_hydro_data_acq
-   bottle_salt
    bottle_nuts
-   bottle_oxygen
-   bottle_alk
    bottle_ph
    bottle_dic
    bottle_doc
