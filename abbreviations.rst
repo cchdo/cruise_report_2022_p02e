@@ -92,6 +92,9 @@ Abbreviations
 
   ODF
     Oceanographic Data Facility - :term:`SIO`
+  
+  ODU
+    Old Dominion University
 
   OSU
     Oregon State University
@@ -167,6 +170,9 @@ Abbreviations
 
   U Miami
     University of Miami
+
+  UoE
+    University of Exeter
 
   UOG
     University of Guam

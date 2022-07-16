@@ -21,7 +21,7 @@ Pre-made liquid potassium iodate standards and reagent/distilled water blanks we
 Sampling and Data Processing
 ----------------------------
 
-A total of 3294 oxygen measurements were made, all of which were niskin samples.
+A total of 3262 oxygen measurements were made, all of which were niskin samples.
 Niskin samples were collected soon after the rosette was secured on deck, either from fresh niskins or immediately following CFC sampling.
 
 Nominal 125 mL volume-calibrated biological oxygen demand (BOD) flasks were rinsed 3 times with minimal agitation using a silicone draw tube, then filled and allowed to overflow for at least 3 flask volumes, ensuring no bubbles remained. Pickling reagents MnCl2 and NaI/NaOH (1 mL of each) were added via bottle-top dispensers to fix samples before stoppering. Flasks were shaken twice (10-12 inversions) to assure thorough dispersion of the precipitate - once immediately after drawing and then again after 30-60 minutes.

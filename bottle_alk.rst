@@ -110,6 +110,5 @@ Mean duplicate sample offset: 1.08 ± 1.00 µmol/kg (n = 164)
 
 Further dilution corrections need to be applied to this data back onshore, therefore, this data is to be considered preliminary.
 
-.. 
-  [Dickson2007] Dickson, A.G., Sabine, C.L. and Christian, J.R. (Eds.), (2007): *Guide to Best Practices
+.. [Dickson2007] Dickson, A.G., Sabine, C.L. and Christian, J.R. (Eds.), (2007): *Guide to Best Practices
     for Ocean CO2 Measurements*. PICES Special Publication 3, 191 pp.
