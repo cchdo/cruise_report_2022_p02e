@@ -49,28 +49,28 @@ A google search revealed that SF6 is used in the propulsion system of Navy Mark 
 While the highest SF6 concentrations were observed on the shelf, anomalies near 1000m most likely related to this source were observed several hundreds of miles off shore. 
 A plan to re-sample station 200 at the end of the cruise in order to verify persistence of the signal there had to be aborted because the SF6 analysis system broke upon arriving at the station and repair was not feasible within the available time.
 
-.. figure:: images/narrative/isop_salin.eps
+.. figure:: images/narrative/isop_salin.*
 
     Isopycnally mapped upper-ocean salinity along 30N. 
 
-.. figure:: images/narrative/dT_shallow.pdf
+.. figure:: images/narrative/dT_shallow.*
     
     Upper-ocean profiles of average temperature differences between 160 and 145W compared to the WOCE base-line hydrography collected in 1993.
 
-.. figure:: images/narrative/dT_abyssal.pdf
+.. figure:: images/narrative/dT_abyssal.*
     
     Abyssal-ocean profiles of average temperature differences between 160 and 145W compared to the WOCE base-line hydrography collected in 1993.
 
-.. figure:: images/narrative/dS_BTL.pdf
+.. figure:: images/narrative/dS_BTL.*
     
     Profiles of average salinity differences from bottle samples between 160 and 145W compared to the CLIVAR hydrography collected in 2004.
     (The 1993 WOCE bottle salinities are not consistent with the apparent freshening trend.)
 
-.. figure:: images/narrative/dS_abyssal_recent.pdf
+.. figure:: images/narrative/dS_abyssal_recent.*
     
     Abyssal-ocean profiles of average salinity differences from CTD measurements between 160 and 145W compared to the CLIVAR hydrography collected in 2013. 
     (The CTD salinities collected in 1993 and 2004 are not consistent with the apparent freshening trend.)
 
-.. figure:: images/narrative/SF6_shelf_profs.pdf
+.. figure:: images/narrative/SF6_shelf_profs.*
     
     Profiles of sulfur hexafluoride (SF6) collected on two stations on the California shelf.
