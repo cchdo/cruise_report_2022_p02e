@@ -12,8 +12,8 @@ Cruise Report for the 2022 Reoccupation of P02E
    :caption: Table of Contents
 
    cruise_narrative
-   rosette
    met_narrative
+   rosette
    ctd_hydro_data_acq
    bottle_salt
    bottle_nuts
