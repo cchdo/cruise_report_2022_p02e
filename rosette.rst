@@ -40,11 +40,9 @@ Imagining the bow of the ship to be north, the LADCP battery was mounted on the 
 
 .. tabularcolumns:: |l|l|l|l|l|l|
 
-.. csv-table::
+.. csv-table:: (*) LADCP was swapped for the partial re-occupation of the California Current System following station |LAST_STA|.
   :header-rows: 1
   :file: uw_equipment.csv
-
-  (*) LADCP was swapped for the partial re-occupation of the California Current System following station |LAST_STA|.
 
 .. figure:: images/rosette/rosette_south.*
 
