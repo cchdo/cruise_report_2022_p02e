@@ -36,7 +36,7 @@ One 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on 
 Another 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on the top side of the frame.
 The LADCP battery pack was also mounted on the bottom of the frame.
 The LADCP and LADCP battery pack were mounted near (90°) each other at the beginning of the cruise.
-Imagining the now of the ship to be north, the LADCP battery was mounted on the south side of the rosette, the up/down LADCPs were on the west side, the UVP on the east, and CTD mounted to the north.
+Imagining the bow of the ship to be north, the LADCP battery was mounted on the south side of the rosette, the up/down LADCPs were on the west side, the UVP on the east, and CTD mounted to the north (Figure 1).
 
 .. tabularcolumns:: |l|l|l|l|l|l|
 
@@ -44,9 +44,11 @@ Imagining the now of the ship to be north, the LADCP battery was mounted on the 
   :header-rows: 1
   :file: uw_equipment.csv
 
+  (*) LADCP was swapped for the partial re-occupation of the California Current System following station |LAST_STA|.
+
 .. figure:: images/rosette/rosette_south.*
 
-  Package sensor setup from south.
+  Package sensor setup from south (for all rosette figures, orientation is defined as north being toward the bow).
 
 .. figure:: images/rosette/rosette_east.*
 
@@ -70,7 +72,7 @@ Imagining the now of the ship to be north, the LADCP battery was mounted on the 
 
 .. figure:: images/rosette/rosette_west_top.*
 
-  Package  setup from west, top view.
+  Package setup from west, top view.
 
 Winch and Deployment
 --------------------
@@ -84,11 +86,14 @@ There were continuous issues with wire twist and had to "move up" the terminatio
 The deck watch prepared the rosette 10-30 minutes prior to each cast.
 The bottles were cocked and all valves, vents, and lanyards were checked for proper orientation.
 Any biofouling noted was cleaned off the outside of the rosette before the next cast, and the inside of the bottles were checked for biofouling and sprayed down.
-LADCP technician would check for LADCP battery charge, prepare instrument for data acquisition, and disconnect cables.
+The LADCP technician would check for LADCP battery charge, prepare instrument for data acquisition, and disconnect cables.
+The LADCP technician also dealt with the UVP, disconnecting cables at the same time.
 Once stopped on station, the Marine Technician would check the sea state prior to cast and decide if conditions were acceptable for deployment.
-The rosette was moved from the sampling bay out to the deck using the *Revelle's* tugger-driven cart.
+The rosette was moved from the sampling bay out to the deck using the *Revelle's* tugger-driven cart while using the CAST6.
+Following the switch to the DESH5, the rosette was moved from the sampling bay using a pallet jack.
 Once on deck, sea cable slack was pulled up by the winch operator.
 CTD watch standers would then turn on the deckbox and begin data acquistion, and the cast would begin.
+For casts performed with the DESH5, members of the science party used taglines to assist with deployment and recovery.
 Recovering the package at the end of the deployment was the reverse of launching.
 Once rolled back into the sampling bay, a technician secured the cart to the deck using additional ratchet straps.
 The carousel was rinsed and sensors were cleaned (as described below) after every cast, and then samplers were allowed to begin collecting water.
@@ -105,6 +110,9 @@ SBE35RT temperature data was routinely downloaded each day.
 
 Every 20 stations, the transmissometer windows were cleaned and on deck blocked and un-blocked voltage readings were recorded prior to the cast.
 The transmissometer was also calibrated before the start and after the end of science operations.
+
+"Dark" bio casts were performed periodically, where the fluorometer sensor face was covered with black electrical tape.
+Dark casts allowed for background noise to be measured as function of depth, since the fluorometer would not measure any signal.
 
 Logs
 ----
