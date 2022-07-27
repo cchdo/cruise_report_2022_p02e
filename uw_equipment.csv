@@ -18,7 +18,7 @@
 "Altimeter","Valeport 500",53821,"–","|FIRST_STA|-|LAST_STA|",":term:`STS`/:term:`ODF`"
 "UVP","–",201,"–","|FIRST_STA|-|LAST_STA|",":term:`UAF`"
 "LADCP (uplooker)","WHM300kHZ","12734","","|FIRST_STA|-|LAST_STA|",":term:`LDEO`"
-"LADCP (downlooker)","WHM300kHZ","3441","","|FIRST_STA|-204",":term:`LDEO`"
+"LADCP (downlooker)","WHM300kHZ","3441","","|FIRST_STA|-|LAST_STA|",":term:`LDEO`"
 "LADCP (downlooker)","WHM300kHZ","24477","","186-191(*)",":term:`LDEO`"
 "Chipods","Chipod","2014 Ti44-8","–","|FIRST_STA|-162",":term:`OSU`"
 "Chipods","Chipod","2013 TI44-12","–","|FIRST_STA|-162",":term:`OSU`"
