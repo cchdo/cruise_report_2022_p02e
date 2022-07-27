@@ -19,7 +19,8 @@ The watch maintained a CTD cast log for each attempted cast containing a descrip
 
 Once the deck watch had deployed the rosette, the winch operator would lower it to 20 meters.
 The CTD sensor pumps were configured to start 10 seconds after the primary conductivity cell reports salt water in the cell.
-The CWO checked the CTD data for proper sensor operation, waited for sensors to stabilize, and instructed the winch operator to bring the package to the surface in good weather or no more than 5 meters in high seas.
+The UVP was configured to turn on after it had descended to 20 meters, and was identified as on when the voltages went above a certain range.
+The CWO checked the CTD data for proper sensor operation, waited for sensors to stabilize, waited for the UVP to turn on, and then instructed the winch operator to bring the package to the surface in good weather or no more than 5 meters in high seas.
 The winch was then instructed to lower the package to the initial target wire-out at no more than 60 m/min after 100 m depending on depth, sea-cable tension, and the sea state.
 
 The CWO monitored the progress of the deployment and quality of the CTD data through interactive graphics and operational displays.
@@ -28,7 +29,7 @@ The winch was directed to slow decent rate to 30 m/min 100 m from the bottom, an
 The bottom of the CTD cast was usually to within 10-20 meters of the bottom determined by altimeter data.
 For each full upcast, the winch operator was directed to stop the winch at up to 36 predetermined sampling pressures. During upcasts specific to bio sampling, the winch operator was directed to stop at up to 21 predetermined sampling pressures.
 These standard depths were staggered every station using 3 sampling schemes.
-The CTD CWO waited 30 seconds prior to tripping sample bottles, to ensure package had shed its wake.
+The CTD CWO waited a minimum of 30 seconds prior to tripping sample bottles, to ensure package had shed its wake (the effect of bottle stop time is discussed further at the end of Conductivity Analysis).
 An additional 15 seconds elapsed before moving to the next consecutive trip depth, which allowed for the SBE35RT to record bottle trip temperature averaged from 13 samples.
 
 After the last bottle was closed, the CWO directed winch to recover the rosette.
@@ -285,7 +286,12 @@ The 95% confidence limits for the mean low-gradient (values -0.002 ºC :math:`\l
 .. The 95% confidence limits for the deep salinity residuals (where pressure :math:`\geq` 2000 dbar) are ±0.00225 mPSU for salinity-C1SAL, ±0.00179 mPSU for salinity-C2SAL and ±0.00178 mPSU for C1SAL-C2SAL.
 
 Minimal issues affected conductivity and calculated CTD salinities during this cruise.
-  * Bottle stops in halocline may have had insufficient stop time during some casts, leading to low-biased measurements.
+  * Bottle stops in halocline may have had insufficient stop time during some casts, leading to measurements biased toward lower depth measurements.
+  Bottle salinity measurements will be biased high relative to the CTD if salinity is decreasing toward the surface, or biased low if salinity is increasing toward the surface.
+  Bottle stop time was increased from 30 seconds to 60 seconds in the halocline from station 187 through the end of the cruise.
+  Preliminary results show a smaller residual between CTD salinity and reference salinity at the longer bottle stops, suggesting 30 seconds is insufficient.
+  This result is consistent with the findings of [Paver2020]_.
+  This hypothesis will continue to be tested on future cruises.
 
 The resulting affected sections of data have been coded and documented in the quality code APPENDIX.
 
@@ -456,3 +462,5 @@ Salinity and oxygen analyses were not performed during these casts and therefore
     2271-2281, (2008)
 
 .. [GarciaGordon1992] García, H. E., and L. I. Gordon, 1992: Oxygen solubility in sea- water: Better fitting equations. Limnol. Oceanogr., 37, 1307– 1312.
+
+.. [Paver2020] Paver, C.R., Codispoti, L.A., Coles, V.J. and Cooper, L.W. (2020), Sampling errors arising from carousel entrainment and insufficient flushing of oceanographic sampling bottles. Limnol Oceanogr Methods, 18: 311-326.
