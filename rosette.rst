@@ -79,7 +79,6 @@ After a hydraulic oil leak was found, the rosette was switched to the DESH5 winc
 The rosette system was suspended from a UNOLS-standard three-conductor 0.322" electro-mechanical sea cable.
 The sea cable was terminated with an Evergrip (primary), Guy Grip (secondary), and set of Crosby Clips (tertiary).
 No electrical issues occurred on P02E.
-There were continuous issues with wire twist and had to "move up" the termination 3 times during the cruise.
 
 The deck watch prepared the rosette 10-30 minutes prior to each cast.
 The bottles were cocked and all valves, vents, and lanyards were checked for proper orientation.
