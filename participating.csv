@@ -5,7 +5,7 @@ C13 & C14,":term:`UW`, :term:`WHOI`","Rolf Sonnerup, Roberta Hansman","rolf@uw.e
 Chipods,:term:`OSU`,Jonathan Nash,nash@coas.oregonstate.edu
 ":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`","Susan Becker, Todd Martz","sbecker@ucsd.edu, trmartz@ucsd.edu"
 Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
-":term:`DOC`, :term:`TDN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
+":term:`DOC`, :term:`TDN`",:term:`UCSB`,Craig Carlson,craig_carlson@ucsb.edu
 Lowered :term:`ADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
 ":term:`POC`, :term:`HPLC`",:term:`UCSD`,Adam Martiny,amartiny@uci.edu
 Shipboard :term:`ADCP`, :term:`UH`, Julia Hummon,hummon@hawaii.edu
@@ -13,3 +13,4 @@ Shipboard :term:`ADCP`, :term:`UH`, Julia Hummon,hummon@hawaii.edu
 Total |CO2| (DIC),":term:`PMEL`, :term:`NOAA`",Richard Feely,richard.a.feely@noaa.gov
 Transmissometer, ":term:`UCI`, :term:`OSU`","Adam Martiny, Jason Graff","amartiny@uci.edu, jason.graff@oregonstate.edu"
 :term:`UVP`-5,":term:`UAF`",Andrew McDonnell,amcdonnell@alaska.edu
+Viral Abundance,:term:`UoE`,Ben Temperton,b.temperton@exeter.ac.uk

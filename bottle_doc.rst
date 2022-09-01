@@ -2,7 +2,7 @@ Dissolved Organic Carbon and Total Dissolved Nitrogen
 =====================================================
 
 PI
-  * Dennis Hansell (U Miami)
+  * Craig Carson (UCSB)
 Technician
   * Michelle Michelsen (UoE/UCSB)
 Analysts
