@@ -11,6 +11,7 @@ Cruise Report for the 2022 Reoccupation of P02E
    :maxdepth: 2
    :caption: Table of Contents
 
+   intro
    cruise_narrative
    met_narrative
    rosette
