@@ -19,6 +19,12 @@ The EK-80 ran during each cast.
 There was also discrete underway sampling three times a day that included HPLC, POM, POC/N and DNA/RNA.
 See individual sections for further detail.
 
+.. _Fig. 1:
+
+.. figure:: images/narrative/Stations.*
+
+  Red rings: Bio stations. Green: stations of the partial re-occupation of the CCS with two full profiles (bio stations also have 2 bio profiles).
+
 In spite of the failure of the primary winch after the first deep profile there were no significant delays due to technical problems.
 Therefore, and also because of the perfect weather and sea state prevailing during the cruise, the full science plan could be carried out, including an optional partial second crossing of the California Current system.
 Preliminary results include observations of strong climate-change trends in the abyssal temperatures and salinities in the subtropical gyre since the previous occupation of P02 in 2013, as well as the mapping of a large plume of SF6 in the eastern part of the section, that is likely caused by the propulsion system of a particular type of Navy torpedoes.
