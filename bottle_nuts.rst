@@ -203,8 +203,13 @@ Data are tabulated below.
 Analytical Problems
 -------------------
 Occasional excess carryover on phosphate channel was resolved with a series of cleaning procedures and monitored throughout cruise.
-A contamination issue created problems for silicate measurement from a few individual sample tubes beginning at station 132.  The contaminant (suspect winch wire grease) eventually spread to other sample tubes and affected about 15 individual silicate measurments between station 132-153. Once tubes were replaced at station 154, the issue was resolved. The values of the reference material and the were used to monitor data quality. Adjustments based on the values obtained for the references material were made as necessary. 
-The adjusted data for affected stations was compared to adjacent stations and historical data during the final QC checks.  
+A contamination issue created problems for silicate measurement from a few individual sample tubes beginning at station 132.
+The contaminant (suspect winch wire grease) eventually spread to other sample tubes and affected about 15 individual silicate measurements between station 132-153.
+Once tubes were replaced at station 154, the issue was resolved.
+The values of the reference material and were used to monitor data quality.
+Adjustments based on the values obtained for the reference material were made as necessary.
+Final QC checks were not completed until after the cruise.
+Comparison of data from adjacent stations and to historical data revealed that phosphate data for stations 12-147 was bad due to a bad reagent preparation.
 
 .. [Armstrong1967] Armstrong, F.A.J., Stearns, C.A., and Strickland, J.D.H., "The measurement of upwelling and subsequent biological processes by means of the Technicon Autoanalyzer and associated equipment," Deep-Sea Research, 14, pp.381-389 (1967).
 
