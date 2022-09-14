@@ -61,10 +61,10 @@ A more comprehensive post-cruise LADCP QC will be carried out by Thurnherr in hi
 Instrumentation
 ----------------
 
-Two 300kHz Teledyne RDI Workhorse Monitor ADCPs (WHM300) were used for all profiles up to 20501, which covers the full extent of the P2 section: a primary/DL (S/N 3441) and secondary/UL (S/N 12734).
+Two 300kHz Teledyne RDI Workhorse Monitor ADCPs (WHM300) were used for all profiles up to 20401, which covers the full extent of the P2 section: a primary/DL (S/N 3441) and secondary/UL (S/N 12734).
 The UL instrument replaced another instrument used on leg 1 (S/N 754) before any profiles began on leg 2.
 The replacement UL (S/N 12734) was fitted with a custom self-recording accelerometer/magnetometer package called Independent Measurement Package (IMP).
-Due to a hardware fault the IMP did not record any data up to profile 20401.
+Due to a hardware fault the IMP did not record any data up to profile 13001.
 After repairing the instrument its performance was monitored using its built-in WiFi access point.
 Wireless data download with rsync proved easy with data rates at 20 feet distance typically around 700Mbps.
 However, the initial connection with a laptop could not be made at any distance until first another connection had been made with an iPhone, which typically was no problems at distances of 2-3 feet.
