@@ -4,7 +4,7 @@ GO-SHIP P02E 2022 Hydrographic Program
 Summary
 ----------------------------
 The 2022 reoccupation of leg 2 of the GO-SHIP P02 hydrographic line, RR2205 (:ref:`Fig. 1 <Fig. 1>`), included 130 profiles collected on 89 stations using a 36-bottle rosette.
-This includes a shallow test dip carried out on the way to the first station of the section, reoccupation of 10 stations in the California Current region near the eastern end of the section, as well as 1000-m casts for the BIO-GO-SHIP program collected on every third station.
+This includes a shallow test dip carried out on the way to the first station of the section, reoccupation of 10 stations in the California Current region near the eastern end of the section, as well as 1000-m casts for the BIO-GO-SHIP [1]_ program collected on every third station.
 Additionally, four GO_BGC floats with biochemical sensors were deployed.
 All floats were deployed on stations with bio profiles, using an extended bottle sampling schedule.
 Most of the P2 section, including the entire zonal component along 30N, was collected with the target 30nm station spacing.
